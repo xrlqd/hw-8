@@ -1,0 +1,24 @@
+.two {
+	background: lightslategray;
+}
+
+.head {
+	color: black;
+	display: flex;
+	justify-content: center;
+	font-size: 30px;
+}
+
+.block {
+	width: 100px;
+	height: 100px;
+	background: seagreen;
+	border-radius: 0px;
+}
+
+.nhead {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
